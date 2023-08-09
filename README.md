@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="linkedin.com/in/realbilalnadeem" target="blank"><img align="center" src="https://www.linkedin.com/favicon.ico" alt="linkedin" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/realbilalnadeem" target="blank"><img align="center" src="https://www.linkedin.com/favicon.ico" alt="linkedin" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
