@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Nadeem</h1>
 <h3 align="center">Pakistan-based InfoSec enthusiast</h3>
 
-- 📫 How to reach me **admin@bilalnadeem.me / bilal@m3ta.tech**
+- 📫 How to reach me **admin@bilalnadeem.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
